@@ -101,8 +101,6 @@ Sou dinâmico, determinado e apaixonado por tecnologia, especialmente no desenvo
     src="https://github-readme-stats.vercel.app/api?username=Fr4nc1sco14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
     
-<br/>
-
 <img 
       align="left" 
       alt="GitHub Stats" 
